@@ -1,0 +1,4 @@
+carpeta1
+listado2.txt
+listado3.txt
+listado.txt
